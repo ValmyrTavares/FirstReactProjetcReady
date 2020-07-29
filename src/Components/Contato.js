@@ -1,12 +1,22 @@
 import React from 'react'
-import style from './Contato.module.css'
+import styles from './Contato.module.css'
+import foto from '../img/contato.jpg'
 
 function Contato() {
     return (
-        <div>
-            <h1>Contato</h1>
-        </div>
+        <section className={`${styles.contato} animeLeft`}>
+            <img src={foto} alt="maquina de escrever"/>
+            <div>
+            <h1>Entre em contato</h1>
+            <ul className={styles.dados}>
+                <li>andre@origamid.com</li>
+                <li>Fone 99999-9999</li>
+                <li>Rua cardeal arcoverde 12</li>
+            </ul>
+            </div>
+        </section>
     )
+
 }
 
 export default Contato
