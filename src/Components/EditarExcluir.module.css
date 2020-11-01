@@ -1,0 +1,34 @@
+.container{
+    background: rgb(0, 0, 0, .2);
+    width: 70%;
+    margin: 30px 15%;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.container fieldset{
+    width: 79%;
+    margin: 15px auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    border-radius: 10px;
+
+}
+.container h1{
+    text-align:left;
+    font-family: monospace;
+    font-size: 1.5rem;
+}
+.container div{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+.container button{
+    padding:.3rem .8rem;
+    border-radius: 8px;
+    margin:.3rem
+}

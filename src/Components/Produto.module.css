@@ -1,8 +1,4 @@
-.produtos{
-   display:grid;
-   grid-template-columns: repeat(3, 1fr);
-    gap:2rem;
-}
-.nome{
-    margin: .5rem 0;
+.containerArticle{
+    display:grid;
+    grid-template-columns: 1fr 12fr;
 }

@@ -1,0 +1,28 @@
+.containerImagemHome{
+    width: 90%;
+    margin:10px auto;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+}
+
+
+.imagem{
+    width: 24%;
+    height: 70vh;
+    min-width: 350px;
+}
+@media(max-width:1160px){
+    .imagem{
+        width: 45%;
+        height: 70vh;
+       
+    }
+}
+@media(max-width:843px){
+    .imagem{
+        width: 80%;
+        height: 70vh;
+       
+    }
+}

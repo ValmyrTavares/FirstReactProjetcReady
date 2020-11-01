@@ -1,0 +1,36 @@
+.teste{
+    color:red;
+    background:pink;
+}
+.container{
+    width:80%;
+    max-width: 950px;
+    height:80%;
+    margin: 0 auto;   
+    background:rgb(131, 32, 32, 0.2); 
+    padding: 1rem;
+}
+.picture{
+    width:64%;
+    margin-top:5px;
+    margin-left: 18%;
+    max-height: 22rem;
+    box-shadow: 10px 10px 5px rgb(114, 62, 62, .5);
+}
+
+.title{   
+    text-align: center;
+    margin:.3rem;
+}
+.subTitle{   
+    text-align: center;    
+}
+.text{
+    column-count: 3;
+    column-gap: 30px;
+    column-rule-style: solid ;
+    column-rule-width: 1px;
+    column-rule-color: lightblue;
+    column-width:300px;
+
+}

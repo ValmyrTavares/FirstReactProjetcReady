@@ -1,30 +1,40 @@
-.header {
-    margin-bottom: 2rem;
-}
-.header ul {
+.teste{
+    background: white;
+    height: 20vh;
     display:flex;
-    padding: 0px;
-    margin: 0px;
-    list-style: none;
+    justify-content:space-around;
+    align-items:baseline;
+    width: 60%;
 }
-.header ul li {
-    margin-right: 1rem
-}
-.link{
-    display:block;
+.teste a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #14213d;
     text-decoration: none;
     font-size: 1.2rem;
-    font-family: Arial, Helvetica, sans-serif;
-    color:black;
-    background: #eee;
-    padding: .5rem 1rem;
-    border-radius: 4x;
+    font-family: monospace;
+}
+.incone{
+    font-size:10px
 }
 
-.active,
-.link:hover{
-    background: #ddd;
+.category p{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #14213d;   
+    font-size: 1.2rem;
+    font-family: monospace;
 }
-.name{
-    color:red
+.category span{
+ display:block;
 }
+
+.category p:hover + span{  
+    display:block;    
+  }
+
+.subMenu{
+    color:red;      
+} 
