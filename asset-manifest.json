@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/FirstDeployInGitHubPage/static/css/main.54486906.chunk.css",
-    "main.js": "/FirstDeployInGitHubPage/static/js/main.12b212ae.chunk.js",
-    "main.js.map": "/FirstDeployInGitHubPage/static/js/main.12b212ae.chunk.js.map",
-    "runtime-main.js": "/FirstDeployInGitHubPage/static/js/runtime-main.54b816ec.js",
-    "runtime-main.js.map": "/FirstDeployInGitHubPage/static/js/runtime-main.54b816ec.js.map",
-    "static/js/2.220dd62e.chunk.js": "/FirstDeployInGitHubPage/static/js/2.220dd62e.chunk.js",
-    "static/js/2.220dd62e.chunk.js.map": "/FirstDeployInGitHubPage/static/js/2.220dd62e.chunk.js.map",
-    "index.html": "/FirstDeployInGitHubPage/index.html",
-    "precache-manifest.3c6950b8f13bef0c72586a950dcaec8a.js": "/FirstDeployInGitHubPage/precache-manifest.3c6950b8f13bef0c72586a950dcaec8a.js",
-    "service-worker.js": "/FirstDeployInGitHubPage/service-worker.js",
-    "static/css/main.54486906.chunk.css.map": "/FirstDeployInGitHubPage/static/css/main.54486906.chunk.css.map",
-    "static/js/2.220dd62e.chunk.js.LICENSE.txt": "/FirstDeployInGitHubPage/static/js/2.220dd62e.chunk.js.LICENSE.txt",
-    "static/media/contato.jpg": "/FirstDeployInGitHubPage/static/media/contato.20d1d7bb.jpg"
+    "main.css": "/FirstReactProjetcReady/static/css/main.54486906.chunk.css",
+    "main.js": "/FirstReactProjetcReady/static/js/main.12b212ae.chunk.js",
+    "main.js.map": "/FirstReactProjetcReady/static/js/main.12b212ae.chunk.js.map",
+    "runtime-main.js": "/FirstReactProjetcReady/static/js/runtime-main.ecd3d54e.js",
+    "runtime-main.js.map": "/FirstReactProjetcReady/static/js/runtime-main.ecd3d54e.js.map",
+    "static/js/2.220dd62e.chunk.js": "/FirstReactProjetcReady/static/js/2.220dd62e.chunk.js",
+    "static/js/2.220dd62e.chunk.js.map": "/FirstReactProjetcReady/static/js/2.220dd62e.chunk.js.map",
+    "index.html": "/FirstReactProjetcReady/index.html",
+    "precache-manifest.5399805f48a29a20cb8b994926d94471.js": "/FirstReactProjetcReady/precache-manifest.5399805f48a29a20cb8b994926d94471.js",
+    "service-worker.js": "/FirstReactProjetcReady/service-worker.js",
+    "static/css/main.54486906.chunk.css.map": "/FirstReactProjetcReady/static/css/main.54486906.chunk.css.map",
+    "static/js/2.220dd62e.chunk.js.LICENSE.txt": "/FirstReactProjetcReady/static/js/2.220dd62e.chunk.js.LICENSE.txt",
+    "static/media/contato.jpg": "/FirstReactProjetcReady/static/media/contato.20d1d7bb.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.54b816ec.js",
+    "static/js/runtime-main.ecd3d54e.js",
     "static/js/2.220dd62e.chunk.js",
     "static/css/main.54486906.chunk.css",
     "static/js/main.12b212ae.chunk.js"
